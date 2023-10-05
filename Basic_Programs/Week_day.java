@@ -10,7 +10,7 @@ public class Week_day {
 		 * saturday to sunday -> Yayy,Its a weekend 
 		 */
 		Scanner nobi=new Scanner(System.in);
-		System.out.println("enter your day name:");
+		System.out.println("enter your dayName name:");
 		String dayName=nobi.nextLine();
 		if(dayName.equals("Monday") ||
 		   dayName.equals("Tueday") ||
